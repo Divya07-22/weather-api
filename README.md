@@ -1,7 +1,7 @@
 # Atmosphere Pro 🌦️
 
 Atmosphere Pro is a modern, glassmorphic weather application built with React, Vite, and Tailwind CSS. It provides real-time weather data with an immersive, dynamic user interface that changes based on weather conditions.
-
+Live url:https://weather-api-c9fq.vercel.app/
 ## ✨ Features
 
 - **Glassmorphism Design**: sleek, translucent UI with backdrop blurs and gradients.
